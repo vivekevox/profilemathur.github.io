@@ -3086,7 +3086,8 @@ h6 {
   .home_banner_area .banner_inner .banner_content {
     margin-top: 0px; }
     .home_banner_area .banner_inner .banner_content .primary_btn {
-      display: block; }
+      display: block;
+      margin-right: 6px; }
 
   /* Blog Page Area css
   ============================================================================================ */
